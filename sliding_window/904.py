@@ -2,7 +2,7 @@
 
 class Solution:
     def totalFruit(self, tree: List[int]) -> int:
-        result = float('-inf')
+        result = 0
         basket = defaultdict(int)
         start = 0
 
