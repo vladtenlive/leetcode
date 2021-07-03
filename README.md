@@ -1,8 +1,11 @@
-# leetcode
-LeetCode Solutions groupped by common patterns
 
-YouTube: https://www.youtube.com/c/vladten
+# LeetCode Patterns Solutions
 
-Telegram: https://t.me/nilinterface
+LeetCode Solutions groupped by **common patterns**
 
-Problems source: https://seanprashad.com/leetcode-patterns/
+**YouTube:** https://www.youtube.com/c/vladten
+**Telegram:** https://t.me/tenvlad
+
+## Inspired by:
+https://github.com/redsun9/leetcode
+https://seanprashad.com/leetcode-patterns/
