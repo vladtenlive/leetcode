@@ -11,7 +11,6 @@ class Solution:
         if not root:
             return 0
 
-        result = []
         q = deque([root])
 
         level = 0
