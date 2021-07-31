@@ -1,4 +1,4 @@
-# Find All Numbers Disappeared in an Array (Arrays | Cyclic sort)
+# Find All Numbers Disappeared in an Array \(Arrays | Cyclic sort\)
 
 {% embed url="https://www.youtube.com/watch?v=nTt3929ik8U" %}
 

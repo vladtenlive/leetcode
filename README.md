@@ -1,20 +1,16 @@
 
-# LeetCode Patterns Solutions
+# LeetCode Паттерны
 
-LeetCode Solutions groupped by **common patterns**
-
-## Links
+https://youtu.be/92_ZmKjtfxA?list=PLyHj6yBbnkUgC6T9RpPxEBUv3My9lPd7m
 
 YouTube: https://www.youtube.com/channel/UCVFNKy52qE3DEtf5TyLiZVQ
 
 Notion: https://vlad10.notion.site/LeetCode-33fd0531f83446638b7481a98fcbe75f
 
+GitBook: ___
+
 Telegram: https://t.me/vladtenlive
 
-Support: https://donate.stream/vladtenlive
+Поддержать: https://donate.stream/vladtenlive
 
-
-## Inspired by:
-https://github.com/redsun9/leetcode
-
-https://seanprashad.com/leetcode-patterns/
+Список задач: https://seanprashad.com/leetcode-patterns/
