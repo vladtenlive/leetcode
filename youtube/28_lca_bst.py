@@ -10,11 +10,11 @@ class Solution:
         node = root
 
         while node:
-            if q.val > node.val and p.val > node.val:
+            if p.val > node.val and q.val > node.val:
                 node = node.right
-            if q.val < node.val and p.val < node.val:
+            elif p.val < node.val and q.val < node.val:
                 node = node.left
             else:
                 return node
 
-        return -1
+        return None
